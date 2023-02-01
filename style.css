@@ -1,6 +1,30 @@
 span {
   display: inline-block;
 }
+
+
+li {display: inline;
+
+}
+
+
+body {
+  text-align: center;
+}
+
+#Penguin {
+  height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
 /* span {
   display: inline-block;
   background-color: lightblue;
